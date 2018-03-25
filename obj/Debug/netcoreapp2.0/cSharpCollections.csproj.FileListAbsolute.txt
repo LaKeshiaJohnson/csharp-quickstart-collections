@@ -1,0 +1,10 @@
+/Users/lakeshiajohnson/workspace/practice/cSharpCollections/bin/Debug/netcoreapp2.0/cSharpCollections.deps.json
+/Users/lakeshiajohnson/workspace/practice/cSharpCollections/bin/Debug/netcoreapp2.0/cSharpCollections.runtimeconfig.json
+/Users/lakeshiajohnson/workspace/practice/cSharpCollections/bin/Debug/netcoreapp2.0/cSharpCollections.runtimeconfig.dev.json
+/Users/lakeshiajohnson/workspace/practice/cSharpCollections/bin/Debug/netcoreapp2.0/cSharpCollections.dll
+/Users/lakeshiajohnson/workspace/practice/cSharpCollections/bin/Debug/netcoreapp2.0/cSharpCollections.pdb
+/Users/lakeshiajohnson/workspace/practice/cSharpCollections/obj/Debug/netcoreapp2.0/cSharpCollections.csproj.CoreCompileInputs.cache
+/Users/lakeshiajohnson/workspace/practice/cSharpCollections/obj/Debug/netcoreapp2.0/cSharpCollections.AssemblyInfoInputs.cache
+/Users/lakeshiajohnson/workspace/practice/cSharpCollections/obj/Debug/netcoreapp2.0/cSharpCollections.AssemblyInfo.cs
+/Users/lakeshiajohnson/workspace/practice/cSharpCollections/obj/Debug/netcoreapp2.0/cSharpCollections.dll
+/Users/lakeshiajohnson/workspace/practice/cSharpCollections/obj/Debug/netcoreapp2.0/cSharpCollections.pdb
